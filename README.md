@@ -22,7 +22,12 @@ space while visualizing its evolution.
   <img src="media/wavepacket.gif" width="900">
 </p>
 
-*Real-time evolution of a 2D Gaussian wavepacket in position and momentum space.*
+*Real-time evolution of a 2D Gaussian wavepacket in position and momentum space. 
+ #visualizing
+ - Position space density
+ - Momentum space density
+ - telemetry data
+ - Using beautiful waterfall graphs to map 3D visualization to 2D plane*
 
 ## Method
 
